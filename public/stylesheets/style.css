@@ -1,8 +1,24 @@
 body {
-  padding: 50px;
+  /*padding: 50px;*/
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
 }
+
+#header {
+  background-color: red;
+  position: fixed;
+  width:100%;
+  top: 0px;
+  z-index: 100;
+  /*padding: 0 0 13px;*/
+}
+
+.menu {
+  height: 67px;
+
+}
+
+
