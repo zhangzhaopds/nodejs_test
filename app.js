@@ -14,6 +14,32 @@ var app = express();
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
+
+// 日志文件
+var log4js = require('log4js');
+log4js.configure({
+    appenders: [
+        { type: 'console' }, //控制台输出
+        {
+            type: 'DateFile', //文件输出
+            filename: 'logs/access.log',
+            maxLogSize: 1024,
+            backups:3,
+            pattern: '-yyyy-MM-dd.log',
+            alwaysIncludePattern: true
+
+        }
+    ],
+    replaceConsole: true
+});
+exports.logger=function(name){
+    var logger = log4js.getLogger(name);
+    logger.setLevel('INFO');
+    return logger;
+};
+app.use(log4js.connectLogger(this.logger(""), {level:'auto', format:':method :url'}));
+
+
 // uncomment after placing your favicon in /public
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(morgan('dev'));
@@ -43,27 +69,6 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-// 日志文件
-var log4js = require('log4js');
-log4js.configure({
-    appenders: [
-        { type: 'console' }, //控制台输出
-        {
-            type: 'file', //文件输出
-            filename: 'logs/access.log',
-            maxLogSize: 1024,
-            backups:3,
-            category: 'normal'
-        }
-    ],
-    replaceConsole: true
-});
-exports.logger=function(name){
-    var logger = log4js.getLogger(name);
-    logger.setLevel('INFO');
-    return logger;
-};
-app.use(log4js.connectLogger(this.logger('normal'), {level:'auto', format:':method :url'}));
 
 
 module.exports = app;

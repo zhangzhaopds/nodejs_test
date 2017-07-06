@@ -42,6 +42,16 @@ router.get('/', function(req, res, next) {
 router.get('/name', function (req, res, next) {
     console.log('name');
     res.send('you are beautiful girl');
-})
+});
+
+router.get('/logs', function (req, res, next) {
+
+    var path = require('path');
+    var filePath = path.join(__dirname, '../logs/access.log-2017-07-06.log')
+    var fs = require('fs');
+    var data = fs.readFileSync(filePath);
+    console.log("读取日志：\n" + data.toString());
+    res.send(data.toString());
+});
 
 module.exports = router;

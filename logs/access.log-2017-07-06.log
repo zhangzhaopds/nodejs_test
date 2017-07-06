@@ -1,0 +1,29 @@
+[2017-07-06 17:31:11.652] [INFO] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - This i    kkkkkkkk   s an index page!
+[2017-07-06 17:31:11.655] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误错误粗我
+[2017-07-06 17:31:11.655] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误
+[2017-07-06 17:31:11.656] [WARN] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 警告
+[2017-07-06 17:31:11.671] [WARN] [default] - GET /
+[2017-07-06 17:31:11.686] [WARN] [default] - GET /stylesheets/style.css
+[2017-07-06 17:32:08.180] [INFO] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - This i    kkkkkkkk   s an index page!
+[2017-07-06 17:32:08.184] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误错误粗我
+[2017-07-06 17:32:08.185] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误
+[2017-07-06 17:32:08.185] [WARN] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 警告
+[2017-07-06 17:32:08.201] [WARN] [default] - GET /
+[2017-07-06 17:32:08.217] [WARN] [default] - GET /stylesheets/style.css
+[2017-07-06 17:32:17.787] [ERROR] [default] - GET /logs
+[2017-07-06 17:32:57.688] [INFO] console - 读取日志：
+[2017-07-06 17:31:11.652] [INFO] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - This i    kkkkkkkk   s an index page!
+[2017-07-06 17:31:11.655] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误错误粗我
+[2017-07-06 17:31:11.655] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误
+[2017-07-06 17:31:11.656] [WARN] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 警告
+[2017-07-06 17:31:11.671] [WARN] [default] - GET /
+[2017-07-06 17:31:11.686] [WARN] [default] - GET /stylesheets/style.css
+[2017-07-06 17:32:08.180] [INFO] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - This i    kkkkkkkk   s an index page!
+[2017-07-06 17:32:08.184] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误错误粗我
+[2017-07-06 17:32:08.185] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误
+[2017-07-06 17:32:08.185] [WARN] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 警告
+[2017-07-06 17:32:08.201] [WARN] [default] - GET /
+[2017-07-06 17:32:08.217] [WARN] [default] - GET /stylesheets/style.css
+[2017-07-06 17:32:17.787] [ERROR] [default] - GET /logs
+
+[2017-07-06 17:32:57.693] [INFO] [default] - GET /users/logs
