@@ -49,17 +49,17 @@ router.get('/name', function (req, res, next) {
 
 router.get('/logs', function (req, res, next) {
     var param = url.parse(req.url, true).query;
-    console.log('查询日期：' + param.date);
+    console.log('日志查询：' + param.date);
     if (param.date != undefined) {
         var filePath = path.join(__dirname, '../logs/' + param.date + '.txt');
-        fs.readFile(filePath, function (err, data) {
+        fs.stat(filePath, function (err, stats) {
             if (err) {
                 console.error(err);
-                res.send("查询无结果")
+                res.send('查询无结果')
             } else {
-                res.send(data.toString());
+                res.download(filePath);
             }
-        });
+        })
     } else {
         res.send("查询无结果");
     }

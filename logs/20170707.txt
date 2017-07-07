@@ -205,3 +205,51 @@
 [2017-07-07 11:01:31.295] [INFO] [default] - GET /users/logs?date=20170707
 [2017-07-07 11:01:31.376] [INFO] console - 查询日期：20170707
 [2017-07-07 11:01:31.380] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:09:14.345] [INFO] console - 查询日期：20170707
+[2017-07-07 11:09:14.365] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:09:25.906] [INFO] console - 查询日期：20170707p
+[2017-07-07 11:09:25.921] [INFO] [default] - GET /users/logs?date=20170707p
+[2017-07-07 11:13:40.897] [INFO] console - 查询日期：20170707p
+[2017-07-07 11:13:40.902] [ERROR] console - { Error: ENOENT: no such file or directory, stat '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170707p.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170707p.txt' }
+[2017-07-07 11:13:40.919] [INFO] [default] - GET /users/logs?date=20170707p
+[2017-07-07 11:13:44.032] [INFO] console - 查询日期：20170707
+[2017-07-07 11:13:44.040] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:13:44.134] [INFO] console - 查询日期：20170707
+[2017-07-07 11:13:44.144] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:13:51.297] [INFO] console - 查询日期：20170707
+[2017-07-07 11:13:51.300] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:13:51.806] [INFO] console - 查询日期：20170707
+[2017-07-07 11:13:51.809] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:14:37.741] [INFO] console - 查询日期：20170707
+[2017-07-07 11:14:37.743] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:14:37.904] [INFO] console - 查询日期：20170707
+[2017-07-07 11:14:37.908] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:14:43.074] [INFO] console - 查询日期：20170707p
+[2017-07-07 11:14:43.075] [ERROR] console - { Error: ENOENT: no such file or directory, stat '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170707p.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170707p.txt' }
+[2017-07-07 11:14:43.078] [INFO] [default] - GET /users/logs?date=20170707p
+[2017-07-07 11:15:02.028] [INFO] console - 查询日期：20170707
+[2017-07-07 11:15:02.030] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:15:02.127] [INFO] console - 查询日期：20170707
+[2017-07-07 11:15:02.129] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:16:15.674] [INFO] console - 查询日期：20170707p
+[2017-07-07 11:16:15.674] [ERROR] console - { Error: ENOENT: no such file or directory, stat '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170707p.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170707p.txt' }
+[2017-07-07 11:16:15.676] [INFO] [default] - GET /users/logs?date=20170707p
+[2017-07-07 11:16:18.226] [INFO] console - 查询日期：20170707
+[2017-07-07 11:16:18.227] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:16:18.282] [INFO] console - 查询日期：20170707
+[2017-07-07 11:16:18.284] [INFO] [default] - GET /users/logs?date=20170707
