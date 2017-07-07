@@ -18,13 +18,22 @@ app.set('view engine', 'ejs');
 // 日志文件
 var log4js = require('log4js');
 log4js.configure({
-    appenders: [{
-        type: 'file',
-        filename: 'logs/default.log'
-    }]
+    appenders: [
+        { type: 'console'},
+        {
+            type: 'dateFile',
+            filename: 'logs/',
+            alwaysIncludePattern: true,
+            pattern: "yyyyMMdd.txt"
+        }
+    ]
 })
-var logger = log4js.getLogger('custom-appender');
-logger.debug("Time:", new Date());
+var logger = log4js.getLogger();
+logger.setLevel('INFO');
+logger.debug("Time-debug:", new Date());
+logger.info("Time-info:", new Date());
+logger.error("Time-error:", new Date());
+logger.warn("Time-warn:", new Date());
 
 
 
