@@ -17,8 +17,17 @@ app.set('view engine', 'ejs');
 
 // 日志文件
 var log4js = require('log4js');
-var logger = log4js.getLogger();
+log4js.configure({
+    appenders: [{
+        type: 'file',
+        filename: 'logs/default.log'
+    }]
+})
+var logger = log4js.getLogger('custom-appender');
 logger.debug("Time:", new Date());
+
+
+
 // var log4js = require('log4js');
 // log4js.configure({
 //     appenders: [
