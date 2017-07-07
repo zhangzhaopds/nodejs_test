@@ -1,0 +1,10 @@
+[2017-07-07 09:01:09.984] [INFO] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - This i    kkkkkkkk   s an index page!
+[2017-07-07 09:01:09.991] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误错误粗我
+[2017-07-07 09:01:09.991] [ERROR] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 错误
+[2017-07-07 09:01:09.992] [WARN] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - 警告
+[2017-07-07 09:01:10.010] [INFO] [default] - GET /
+[2017-07-07 09:01:10.031] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-07 09:01:10.214] [ERROR] [default] - GET /favicon.ico
+[2017-07-07 09:05:07.048] [INFO] /Users/zhangzhao/Desktop/nodejs/helloworld/routes/index - This i    kkkkkkkk   s an index page!
+[2017-07-07 09:05:07.068] [WARN] [default] - GET /
+[2017-07-07 09:05:07.084] [WARN] [default] - GET /stylesheets/style.css
