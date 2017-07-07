@@ -1,3 +1,207 @@
 [2017-07-07 10:12:31.267] [INFO] [default] - Time-info: 2017-07-07T02:12:31.267Z
 [2017-07-07 10:12:31.272] [ERROR] [default] - Time-error: 2017-07-07T02:12:31.272Z
 [2017-07-07 10:12:31.273] [WARN] [default] - Time-warn: 2017-07-07T02:12:31.273Z
+[2017-07-07 10:18:10.904] [INFO] [default] - Time-info: 2017-07-07T02:18:10.904Z
+[2017-07-07 10:18:10.909] [ERROR] [default] - Time-error: 2017-07-07T02:18:10.909Z
+[2017-07-07 10:18:10.909] [WARN] [default] - Time-warn: 2017-07-07T02:18:10.909Z
+[2017-07-07 10:18:35.459] [INFO] [default] - Time-info: 2017-07-07T02:18:35.459Z
+[2017-07-07 10:18:35.464] [ERROR] [default] - Time-error: 2017-07-07T02:18:35.464Z
+[2017-07-07 10:18:35.465] [WARN] [default] - Time-warn: 2017-07-07T02:18:35.465Z
+[2017-07-07 10:18:35.465] [INFO] console - 控制台
+[2017-07-07 10:19:22.965] [INFO] [default] - Time-info: 2017-07-07T02:19:22.964Z
+[2017-07-07 10:19:22.971] [ERROR] [default] - Time-error: 2017-07-07T02:19:22.971Z
+[2017-07-07 10:19:22.972] [WARN] [default] - Time-warn: 2017-07-07T02:19:22.972Z
+[2017-07-07 10:19:22.972] [INFO] console - 控制台
+[2017-07-07 10:19:22.972] [ERROR] console - 控制台————错误
+[2017-07-07 10:20:47.573] [INFO] console - 连接成功！
+[2017-07-07 10:20:47.819] [INFO] console - { result: { ok: 1, n: 2, opTime: { ts: [Object], t: 1 } },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 595eefff0ff70f17e861a89c },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 595eefff0ff70f17e861a89d } ],
+  insertedCount: 2,
+  insertedIds: [ 595eefff0ff70f17e861a89c, 595eefff0ff70f17e861a89d ] }
+[2017-07-07 10:23:52.675] [INFO] [default] - Time-info: 2017-07-07T02:23:52.675Z
+[2017-07-07 10:23:52.680] [ERROR] [default] - Time-error: 2017-07-07T02:23:52.680Z
+[2017-07-07 10:23:52.681] [WARN] [default] - Time-warn: 2017-07-07T02:23:52.681Z
+[2017-07-07 10:23:52.681] [INFO] console - 控制台
+[2017-07-07 10:23:52.681] [ERROR] console - 控制台————错误
+[2017-07-07 10:24:10.090] [INFO] [default] - ::ffff:127.0.0.1 - - "GET /users HTTP/1.1" 200 23 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4"
+[2017-07-07 10:24:12.330] [INFO] console - 连接成功！
+[2017-07-07 10:24:12.575] [INFO] console - { result: { ok: 1, n: 2, opTime: { ts: [Object], t: 1 } },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 595ef0cc6e330918561444a8 },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 595ef0cc6e330918561444a9 } ],
+  insertedCount: 2,
+  insertedIds: [ 595ef0cc6e330918561444a8, 595ef0cc6e330918561444a9 ] }
+[2017-07-07 10:25:50.509] [INFO] [default] - Time-info: 2017-07-07T02:25:50.509Z
+[2017-07-07 10:25:50.514] [ERROR] [default] - Time-error: 2017-07-07T02:25:50.514Z
+[2017-07-07 10:25:50.515] [WARN] [default] - Time-warn: 2017-07-07T02:25:50.515Z
+[2017-07-07 10:25:50.515] [INFO] console - 控制台
+[2017-07-07 10:25:50.515] [ERROR] console - 控制台————错误
+[2017-07-07 10:25:53.379] [INFO] [default] - GET /users
+[2017-07-07 10:25:55.109] [INFO] console - 连接成功！
+[2017-07-07 10:25:55.915] [INFO] console - { result: { ok: 1, n: 2, opTime: { ts: [Object], t: 1 } },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 595ef133022a8a188200add3 },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 595ef133022a8a188200add4 } ],
+  insertedCount: 2,
+  insertedIds: [ 595ef133022a8a188200add3, 595ef133022a8a188200add4 ] }
+[2017-07-07 10:40:41.313] [INFO] [default] - GET /users
+[2017-07-07 10:40:44.718] [INFO] console - 连接成功！
+[2017-07-07 10:40:44.951] [INFO] console - { result: { ok: 1, n: 2, opTime: { ts: [Object], t: 1 } },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 595ef4acd05b061b76cfe22c },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 595ef4acd05b061b76cfe22d } ],
+  insertedCount: 2,
+  insertedIds: [ 595ef4acd05b061b76cfe22c, 595ef4acd05b061b76cfe22d ] }
+[2017-07-07 10:46:15.455] [INFO] console - Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?name=edddd',
+  query: 'name=edddd',
+  pathname: '/logs',
+  path: '/logs?name=edddd',
+  href: '/logs?name=edddd' }
+[2017-07-07 10:46:15.472] [INFO] [default] - GET /users/logs?name=edddd
+[2017-07-07 10:47:01.787] [INFO] console - name=edddd
+[2017-07-07 10:47:01.802] [INFO] [default] - GET /users/logs?name=edddd
+[2017-07-07 10:47:21.962] [INFO] console - name=edddd
+[2017-07-07 10:47:21.964] [INFO] [default] - GET /users/logs?name=edddd
+[2017-07-07 10:47:29.184] [INFO] console - name=edddd
+[2017-07-07 10:47:29.188] [INFO] console - undefined
+[2017-07-07 10:47:29.204] [INFO] [default] - GET /users/logs?name=edddd
+[2017-07-07 10:48:19.404] [INFO] console - { name: 'edddd' }
+[2017-07-07 10:48:19.412] [INFO] console - edddd
+[2017-07-07 10:48:19.422] [INFO] [default] - GET /users/logs?name=edddd
+[2017-07-07 10:49:38.119] [INFO] console - { name: 'edddd' }
+[2017-07-07 10:49:38.127] [INFO] console - edddd
+[2017-07-07 10:49:38.128] [INFO] console - undefined
+[2017-07-07 10:49:38.137] [INFO] [default] - GET /users/logs?name=edddd
+[2017-07-07 10:50:52.899] [INFO] console - { name: 'edddd' }
+[2017-07-07 10:50:52.906] [INFO] console - undefined
+[2017-07-07 10:50:52.920] [INFO] [default] - GET /users/logs?name=edddd
+[2017-07-07 10:53:53.788] [INFO] console - { name: 'edddd' }
+[2017-07-07 10:53:53.795] [INFO] console - undefined
+[2017-07-07 10:53:53.808] [INFO] [default] - GET /users/logs?name=edddd
+[2017-07-07 10:54:14.605] [INFO] console - { date: '20170707' }
+[2017-07-07 10:54:14.606] [INFO] console - 20170707
+[2017-07-07 10:54:14.609] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 10:55:28.086] [INFO] console - { date: '20170707' }
+[2017-07-07 10:55:28.088] [INFO] console - 20170707
+[2017-07-07 10:55:28.089] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 10:55:28.861] [INFO] console - { date: '20170708' }
+[2017-07-07 10:55:28.863] [INFO] console - 20170708
+[2017-07-07 10:55:28.876] [INFO] [default] - GET /users/logs?date=20170708
+[2017-07-07 10:57:16.632] [INFO] console - { date: '20170708' }
+[2017-07-07 10:57:16.639] [INFO] console - 20170708
+[2017-07-07 10:57:16.641] [ERROR] console - { Error: ENOENT: no such file or directory, open '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170708.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170708.txt' }
+[2017-07-07 10:57:36.057] [INFO] console - { date: '20170708' }
+[2017-07-07 10:57:36.058] [INFO] console - 20170708
+[2017-07-07 10:57:36.059] [ERROR] console - { Error: ENOENT: no such file or directory, open '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170708.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170708.txt' }
+[2017-07-07 10:57:38.847] [INFO] console - { date: '20170708' }
+[2017-07-07 10:57:38.849] [INFO] console - 20170708
+[2017-07-07 10:57:38.849] [ERROR] console - { Error: ENOENT: no such file or directory, open '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170708.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170708.txt' }
+[2017-07-07 10:57:39.595] [INFO] console - { date: '20170707' }
+[2017-07-07 10:57:39.597] [INFO] console - 20170707
+[2017-07-07 10:57:39.606] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 10:57:39.787] [INFO] console - { date: '20170707' }
+[2017-07-07 10:57:39.789] [INFO] console - 20170707
+[2017-07-07 10:57:39.794] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 10:58:02.043] [INFO] console - { date: '20170709' }
+[2017-07-07 10:58:02.044] [INFO] console - 20170709
+[2017-07-07 10:58:02.045] [ERROR] console - { Error: ENOENT: no such file or directory, open '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170709.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170709.txt' }
+[2017-07-07 10:59:36.898] [INFO] console - { date: '20170709' }
+[2017-07-07 10:59:36.904] [INFO] console - 20170709
+[2017-07-07 10:59:36.906] [ERROR] console - { Error: ENOENT: no such file or directory, open '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170709.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170709.txt' }
+[2017-07-07 10:59:36.921] [INFO] [default] - GET /users/logs?date=20170709
+[2017-07-07 10:59:45.774] [INFO] console - { date: '20170709' }
+[2017-07-07 10:59:45.776] [INFO] console - 20170709
+[2017-07-07 10:59:45.776] [ERROR] console - { Error: ENOENT: no such file or directory, open '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170709.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170709.txt' }
+[2017-07-07 10:59:45.779] [INFO] [default] - GET /users/logs?date=20170709
+[2017-07-07 10:59:46.182] [INFO] console - { date: '20170707' }
+[2017-07-07 10:59:46.183] [INFO] console - 20170707
+[2017-07-07 10:59:46.186] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 10:59:46.407] [INFO] console - { date: '20170707' }
+[2017-07-07 10:59:46.409] [INFO] console - 20170707
+[2017-07-07 10:59:46.410] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:00:50.791] [INFO] console - 查询日期：20170707
+[2017-07-07 11:00:50.808] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:01:23.964] [INFO] console - 查询日期：20170700
+[2017-07-07 11:01:23.965] [ERROR] console - { Error: ENOENT: no such file or directory, open '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170700.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170700.txt' }
+[2017-07-07 11:01:23.974] [INFO] [default] - GET /users/logs?date=20170700
+[2017-07-07 11:01:27.194] [INFO] console - 查询日期：20170700
+[2017-07-07 11:01:27.194] [ERROR] console - { Error: ENOENT: no such file or directory, open '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170700.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/20170700.txt' }
+[2017-07-07 11:01:27.197] [INFO] [default] - GET /users/logs?date=20170700
+[2017-07-07 11:01:27.331] [INFO] console - 查询日期：201707
+[2017-07-07 11:01:27.332] [ERROR] console - { Error: ENOENT: no such file or directory, open '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/201707.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/201707.txt' }
+[2017-07-07 11:01:27.335] [INFO] [default] - GET /users/logs?date=201707
+[2017-07-07 11:01:31.293] [INFO] console - 查询日期：20170707
+[2017-07-07 11:01:31.295] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 11:01:31.376] [INFO] console - 查询日期：20170707
+[2017-07-07 11:01:31.380] [INFO] [default] - GET /users/logs?date=20170707

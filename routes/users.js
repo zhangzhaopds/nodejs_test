@@ -1,5 +1,8 @@
 var express = require('express');
 var router = express.Router();
+var url = require('url');
+var path = require('path');
+var fs = require('fs');
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
@@ -45,13 +48,21 @@ router.get('/name', function (req, res, next) {
 });
 
 router.get('/logs', function (req, res, next) {
-
-    var path = require('path');
-    var filePath = path.join(__dirname, '../logs/access.log-2017-07-06.log')
-    var fs = require('fs');
-    var data = fs.readFileSync(filePath);
-    console.log("读取日志：\n" + data.toString());
-    res.send(data.toString());
+    var param = url.parse(req.url, true).query;
+    console.log('查询日期：' + param.date);
+    if (param.date != undefined) {
+        var filePath = path.join(__dirname, '../logs/' + param.date + '.txt');
+        fs.readFile(filePath, function (err, data) {
+            if (err) {
+                console.error(err);
+                res.send("查询无结果")
+            } else {
+                res.send(data.toString());
+            }
+        });
+    } else {
+        res.send("查询无结果");
+    }
 });
 
 module.exports = router;
