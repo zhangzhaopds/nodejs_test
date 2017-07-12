@@ -2,16 +2,36 @@
 <html>
     <head>
         <title><%= title %></title>
-        <meta http-equiv="x-ua-compatible"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="x-ua-compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="format-detection" content="telephone=no">
         <link rel='stylesheet' href='/stylesheets/style.css' />
+        <script>
+//            document.write("<h1>这是一个段落</h1>");
+
+            function clickedSubmitBtn() {
+                alert("你好，萨比");
+//                console.log("dddd");
+            };
+        </script>
     </head>
     <body>
         <div id="global-wrap">
-            <div id="header">
-                <div class="menu">
-
+            <div class="login_title">欢迎使用同兴支付</div>
+            <form  method="get" action="/users/login">
+                <div>
+                    账号:
+                    <input placeholder="请输入账号" type="text" name="account" value="123">
                 </div>
-            </div>
+                <div>
+                    密码:
+                    <input placeholder="请输入密码" type="password" name="password" value="111111">
+                </div>
+                <button type="submit">登陆</button>
+            </form>
         </div>
     </body>
 </html>

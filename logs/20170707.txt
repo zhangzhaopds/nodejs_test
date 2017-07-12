@@ -253,3 +253,47 @@
 [2017-07-07 11:16:18.227] [INFO] [default] - GET /users/logs?date=20170707
 [2017-07-07 11:16:18.282] [INFO] console - 查询日期：20170707
 [2017-07-07 11:16:18.284] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 16:59:42.898] [INFO] [default] - GET /
+[2017-07-07 16:59:42.914] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-07 16:59:48.778] [INFO] [default] - GET /users
+[2017-07-07 16:59:51.521] [INFO] console - 连接成功！
+[2017-07-07 16:59:51.746] [INFO] console - { result: { ok: 1, n: 2, opTime: { ts: [Object], t: 1 } },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 595f4d87ca82b04312664f28 },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 595f4d87ca82b04312664f29 } ],
+  insertedCount: 2,
+  insertedIds: [ 595f4d87ca82b04312664f28, 595f4d87ca82b04312664f29 ] }
+[2017-07-07 16:59:54.089] [INFO] console - 日志查询：undefined
+[2017-07-07 16:59:54.093] [INFO] [default] - GET /users/logs
+[2017-07-07 17:00:04.326] [INFO] console - 日志查询：201707
+[2017-07-07 17:00:04.326] [ERROR] console - { Error: ENOENT: no such file or directory, stat '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/201707.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/201707.txt' }
+[2017-07-07 17:00:04.333] [INFO] [default] - GET /users/logs?date=201707
+[2017-07-07 17:00:09.238] [INFO] console - 日志查询：20170707
+[2017-07-07 17:00:09.244] [INFO] [default] - GET /users/logs?date=20170707
+[2017-07-07 17:02:57.399] [INFO] console - 日志查询：201707
+[2017-07-07 17:02:57.403] [ERROR] console - { Error: ENOENT: no such file or directory, stat '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/201707.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/201707.txt' }
+[2017-07-07 17:02:57.427] [INFO] [default] - GET /users/logs?date=201707
+[2017-07-07 17:03:03.803] [INFO] console - 日志查询：
+[2017-07-07 17:03:03.803] [ERROR] console - { Error: ENOENT: no such file or directory, stat '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/.txt'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/zhangzhao/Desktop/nodejs/helloworld/logs/.txt' }
+[2017-07-07 17:03:03.808] [INFO] [default] - GET /users/logs?date
+[2017-07-07 17:03:19.578] [INFO] console - 日志查询：undefined
+[2017-07-07 17:03:19.580] [INFO] [default] - GET /users/logs

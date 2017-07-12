@@ -1,0 +1,95 @@
+[2017-07-10 09:58:18.757] [INFO] [default] - GET /
+[2017-07-10 09:58:18.777] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-10 09:58:18.971] [INFO] [default] - GET /favicon.ico
+[2017-07-10 09:59:03.945] [INFO] console - [Function: AipFace]
+[2017-07-10 09:59:03.962] [INFO] [default] - GET /
+[2017-07-10 09:59:03.974] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-10 10:10:59.535] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:10:59.553] [INFO] [default] - GET /
+[2017-07-10 10:10:59.564] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-10 10:23:11.287] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:23:11.307] [INFO] [default] - GET /
+[2017-07-10 10:23:28.840] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:23:28.856] [INFO] [default] - GET /
+[2017-07-10 10:23:52.695] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:23:52.718] [INFO] [default] - GET /
+[2017-07-10 10:26:37.036] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:26:37.055] [INFO] [default] - GET /
+[2017-07-10 10:27:13.146] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:27:13.151] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 10:27:13.179] [INFO] [default] - GET /
+[2017-07-10 10:27:13.226] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-10 10:27:14.501] [ERROR] console - (node:5954) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): ReferenceError: result is not defined
+[2017-07-10 10:27:31.949] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:27:31.953] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 10:27:31.979] [INFO] [default] - GET /
+[2017-07-10 10:27:32.027] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-10 10:27:33.108] [INFO] console - {"log_id":1652841981,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs )"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey al"},{"words":" client . generalbasic ( ) . then func"}]}
+[2017-07-10 10:33:15.047] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:33:15.051] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 10:33:15.077] [INFO] [default] - GET /
+[2017-07-10 10:33:15.118] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-10 10:33:16.270] [INFO] console - {"log_id":1995990985,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}]}
+[2017-07-10 10:34:23.177] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:34:23.182] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 10:34:23.207] [INFO] [default] - GET /
+[2017-07-10 10:34:23.254] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-10 10:34:24.405] [INFO] console - {"log_id":2064158277,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-10 10:58:58.865] [INFO] console - [Function: AipOcr]
+[2017-07-10 10:58:58.870] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 10:59:00.225] [INFO] console - {"log_id":3539868624,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-10 10:59:00.233] [INFO] [default] - GET /
+[2017-07-10 11:00:07.523] [INFO] console - [Function: AipOcr]
+[2017-07-10 11:00:07.527] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 11:00:08.789] [INFO] console - {"log_id":8571525,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-10 11:00:08.797] [INFO] [default] - GET /
+[2017-07-10 11:00:24.810] [INFO] console - [Function: AipOcr]
+[2017-07-10 11:00:24.810] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 11:00:25.827] [INFO] console - {"log_id":25581278,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-10 11:00:25.829] [INFO] [default] - GET /
+[2017-07-10 11:01:07.749] [INFO] console - [Function: AipOcr]
+[2017-07-10 11:01:07.754] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 11:01:08.900] [INFO] console - { log_id: 68661053,
+  direction: 0,
+  words_result_num: 5,
+  words_result: 
+   [ { words: ' var fs = require ( fs ) ;' },
+     { words: ' var img = fs . readfilesync ( )' },
+     { words: ' var base 6 4 img = new buffer ( ) . tostring' },
+     { words: ' var client = new aipocr ( , appkey a' },
+     { words: ' client . generalbasic ( ) . then func' } ],
+  language: 0 }
+[2017-07-10 11:01:08.912] [INFO] [default] - GET /
+[2017-07-10 11:04:09.481] [INFO] console - [Function: AipOcr]
+[2017-07-10 11:04:09.486] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 11:04:10.734] [INFO] console - { log_id: 250394921,
+  direction: 0,
+  words_result_num: 5,
+  words_result: 
+   [ { words: ' var fs = require ( fs ) ;' },
+     { words: ' var img = fs . readfilesync ( )' },
+     { words: ' var base 6 4 img = new buffer ( ) . tostring' },
+     { words: ' var client = new aipocr ( , appkey a' },
+     { words: ' client . generalbasic ( ) . then func' } ],
+  language: 0 }
+[2017-07-10 11:04:10.744] [INFO] [default] - GET /
+[2017-07-10 11:04:37.087] [INFO] console - [Function: AipOcr]
+[2017-07-10 11:04:37.092] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 11:04:38.270] [INFO] console - {"log_id":278010149,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-10 11:04:38.278] [INFO] [default] - GET /
+[2017-07-10 13:57:58.794] [INFO] console - [Function: AipOcr]
+[2017-07-10 13:57:58.798] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 13:58:00.128] [INFO] console - {"log_id":3479738475,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-10 13:58:00.137] [INFO] [default] - GET /
+[2017-07-10 14:02:20.538] [INFO] console - [Function: AipOcr]
+[2017-07-10 14:02:20.542] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 14:02:22.008] [INFO] console - {"log_id":141545057,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-10 14:02:22.016] [INFO] [default] - GET /
+[2017-07-10 14:30:46.869] [INFO] console - [Function: AipOcr]
+[2017-07-10 14:30:46.869] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 14:30:48.064] [INFO] console - {"log_id":1847757122,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-10 14:30:48.067] [INFO] [default] - GET /
+[2017-07-10 14:30:52.001] [INFO] console - [Function: AipOcr]
+[2017-07-10 14:30:52.001] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-10 14:30:53.161] [INFO] console - {"log_id":1852789782,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-10 14:30:53.163] [INFO] [default] - GET /

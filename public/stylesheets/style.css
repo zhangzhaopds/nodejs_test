@@ -1,24 +1,24 @@
 body {
   /*padding: 50px;*/
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: lightgray;
 }
 
 a {
   color: #00B7FF;
 }
 
-#header {
-  background-color: red;
-  position: fixed;
-  width:100%;
-  top: 0px;
-  z-index: 100;
-  /*padding: 0 0 13px;*/
+#global-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.menu {
-  height: 67px;
-
+.login_title {
+    width:100%;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 

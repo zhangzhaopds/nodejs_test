@@ -1,0 +1,185 @@
+[2017-07-12 13:55:18.034] [INFO] console - [Function: AipOcr]
+[2017-07-12 13:55:18.042] [INFO] console - /Users/zhangzhao/Desktop/nodejs/helloworld/public/images/baseword.png
+[2017-07-12 13:55:20.139] [INFO] console - {"log_id":3316428477,"direction":0,"words_result_num":5,"words_result":[{"words":" var fs = require ( fs ) ;"},{"words":" var img = fs . readfilesync ( )"},{"words":" var base 6 4 img = new buffer ( ) . tostring"},{"words":" var client = new aipocr ( , appkey a"},{"words":" client . generalbasic ( ) . then func"}],"language":0}
+[2017-07-12 13:55:20.146] [INFO] [default] - GET /
+[2017-07-12 13:55:20.299] [INFO] [default] - GET /favicon.ico
+[2017-07-12 13:56:09.175] [INFO] [default] - GET /
+[2017-07-12 13:56:09.194] [INFO] [default] - GET /favicon.ico
+[2017-07-12 13:56:09.204] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:02:49.552] [INFO] [default] - GET /
+[2017-07-12 14:02:49.585] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:03:07.903] [INFO] [default] - GET /
+[2017-07-12 14:03:07.925] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:07:11.421] [INFO] [default] - GET /
+[2017-07-12 14:07:11.442] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:08:28.259] [INFO] [default] - GET /
+[2017-07-12 14:08:28.526] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:09:48.066] [INFO] [default] - GET /
+[2017-07-12 14:09:48.126] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:11:29.191] [INFO] [default] - GET /
+[2017-07-12 14:11:29.229] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:18:38.863] [INFO] [default] - GET /
+[2017-07-12 14:18:38.883] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:21:00.151] [INFO] [default] - GET /
+[2017-07-12 14:21:00.214] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:21:31.061] [INFO] [default] - GET /
+[2017-07-12 14:21:31.072] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:24:56.337] [INFO] [default] - GET /
+[2017-07-12 14:24:56.383] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:25:08.954] [INFO] [default] - GET /
+[2017-07-12 14:25:09.009] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:25:55.480] [INFO] [default] - GET /
+[2017-07-12 14:25:55.540] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:26:55.161] [INFO] [default] - GET /
+[2017-07-12 14:26:55.205] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:27:37.086] [INFO] [default] - GET /
+[2017-07-12 14:27:37.122] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:29:58.737] [INFO] [default] - GET /
+[2017-07-12 14:29:58.787] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:31:37.367] [INFO] [default] - GET /
+[2017-07-12 14:31:37.401] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:33:10.590] [INFO] [default] - GET /
+[2017-07-12 14:33:10.629] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:33:14.887] [INFO] [default] - GET /
+[2017-07-12 14:33:14.918] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:34:26.449] [INFO] [default] - GET /
+[2017-07-12 14:34:26.488] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:34:57.115] [INFO] [default] - GET /
+[2017-07-12 14:34:57.150] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:35:39.845] [INFO] [default] - GET /
+[2017-07-12 14:35:40.021] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:35:57.818] [INFO] [default] - GET /
+[2017-07-12 14:35:57.928] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:36:24.012] [INFO] [default] - GET /
+[2017-07-12 14:36:26.361] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:36:37.784] [INFO] [default] - GET /
+[2017-07-12 14:36:41.903] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:37:02.634] [INFO] [default] - GET /
+[2017-07-12 14:37:02.866] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:40:56.969] [INFO] [default] - GET /
+[2017-07-12 14:40:57.280] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:41:16.039] [INFO] [default] - GET /
+[2017-07-12 14:41:18.859] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:41:29.684] [INFO] [default] - GET /
+[2017-07-12 14:41:30.929] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:43:13.442] [INFO] [default] - GET /
+[2017-07-12 14:43:13.662] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:44:50.149] [INFO] [default] - GET /
+[2017-07-12 14:44:50.178] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:45:02.854] [INFO] [default] - GET /
+[2017-07-12 14:45:02.895] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:45:18.801] [INFO] [default] - GET /
+[2017-07-12 14:45:18.955] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:45:46.547] [INFO] [default] - GET /
+[2017-07-12 14:45:46.699] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:46:55.836] [INFO] [default] - GET /
+[2017-07-12 14:46:55.907] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:50:10.677] [INFO] [default] - GET /
+[2017-07-12 14:50:10.711] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:54:19.863] [INFO] [default] - GET /
+[2017-07-12 14:54:19.919] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:54:21.921] [INFO] [default] - POST /
+[2017-07-12 14:54:39.702] [INFO] [default] - GET /
+[2017-07-12 14:54:39.736] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:54:42.259] [INFO] [default] - POST /
+[2017-07-12 14:59:46.708] [INFO] [default] - POST /
+[2017-07-12 14:59:47.868] [INFO] [default] - GET /
+[2017-07-12 14:59:49.344] [INFO] [default] - GET /
+[2017-07-12 14:59:51.343] [INFO] [default] - GET /
+[2017-07-12 14:59:51.402] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 14:59:53.666] [INFO] [default] - POST /login
+[2017-07-12 15:00:07.498] [INFO] [default] - GET /
+[2017-07-12 15:00:07.536] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:00:08.597] [INFO] [default] - POST /login
+[2017-07-12 15:01:23.729] [INFO] [default] - GET /
+[2017-07-12 15:01:23.743] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:01:26.704] [INFO] [default] - GET /login?account=&password=
+[2017-07-12 15:01:38.180] [INFO] [default] - GET /login?account=21&password=21
+[2017-07-12 15:03:55.814] [INFO] [default] - GET /
+[2017-07-12 15:03:55.816] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:03:55.820] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:03:58.843] [INFO] [default] - GET /login?account=21&password=21
+[2017-07-12 15:04:14.042] [INFO] [default] - GET /login
+[2017-07-12 15:04:30.366] [INFO] [default] - GET /
+[2017-07-12 15:04:30.374] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:05:52.798] [INFO] [default] - GET /users
+[2017-07-12 15:05:55.292] [INFO] console - 连接成功！
+[2017-07-12 15:05:55.536] [INFO] console - { result: { ok: 1, n: 2, opTime: { ts: [Object], t: 1 } },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 5965ca531cef1b1c109df5d1 },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 5965ca531cef1b1c109df5d2 } ],
+  insertedCount: 2,
+  insertedIds: [ 5965ca531cef1b1c109df5d1, 5965ca531cef1b1c109df5d2 ] }
+[2017-07-12 15:05:56.031] [INFO] console - name
+[2017-07-12 15:05:56.032] [INFO] [default] - GET /users/name
+[2017-07-12 15:06:01.299] [INFO] [default] - GET /users/login
+[2017-07-12 15:06:52.321] [INFO] [default] - GET /users/login
+[2017-07-12 15:06:58.840] [INFO] [default] - GET /users/login
+[2017-07-12 15:07:12.795] [INFO] [default] - GET /
+[2017-07-12 15:07:12.815] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:07:16.233] [INFO] [default] - GET /users/login?account=da&password=ds
+[2017-07-12 15:07:32.246] [INFO] [default] - GET /
+[2017-07-12 15:07:32.259] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:07:32.262] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:07:33.593] [INFO] [default] - GET /users/login?account=&password=
+[2017-07-12 15:07:42.194] [INFO] [default] - GET /users/login?account=&password=
+[2017-07-12 15:08:03.130] [INFO] [default] - GET /users/login?account=&password=
+[2017-07-12 15:08:15.516] [INFO] [default] - GET /
+[2017-07-12 15:08:15.526] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:08:15.530] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:08:17.096] [INFO] [default] - GET /users?account=&password=
+[2017-07-12 15:08:20.912] [INFO] console - 连接成功！
+[2017-07-12 15:08:21.168] [INFO] console - { result: { ok: 1, n: 2, opTime: { ts: [Object], t: 1 } },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 5965cae4fa4d7d1ff551b4c6 },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 5965cae4fa4d7d1ff551b4c7 } ],
+  insertedCount: 2,
+  insertedIds: [ 5965cae4fa4d7d1ff551b4c6, 5965cae4fa4d7d1ff551b4c7 ] }
+[2017-07-12 15:08:53.571] [INFO] [default] - GET /users?account=&password=
+[2017-07-12 15:08:55.530] [INFO] console - 连接成功！
+[2017-07-12 15:08:55.764] [INFO] console - { result: { ok: 1, n: 2, opTime: { ts: [Object], t: 1 } },
+  ops: 
+   [ { name: '菜鸟教程',
+       url: 'www.runoob.com',
+       _id: 5965cb07b2a03f200cedfc12 },
+     { name: '菜鸟工具',
+       url: 'c.runoob.com',
+       _id: 5965cb07b2a03f200cedfc13 } ],
+  insertedCount: 2,
+  insertedIds: [ 5965cb07b2a03f200cedfc12, 5965cb07b2a03f200cedfc13 ] }
+[2017-07-12 15:08:58.212] [INFO] [default] - GET /
+[2017-07-12 15:08:58.223] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:08:58.227] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:08:59.481] [INFO] [default] - GET /users/login?account=&password=
+[2017-07-12 15:11:16.842] [INFO] [default] - GET /
+[2017-07-12 15:11:16.862] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:11:16.866] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:11:17.908] [INFO] [default] - GET /users/login?account=123&password=111111
+[2017-07-12 15:11:50.913] [INFO] [default] - GET /
+[2017-07-12 15:11:50.933] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:11:50.937] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:11:51.926] [INFO] console - { account: '123', password: '111111' }
+[2017-07-12 15:11:51.933] [INFO] [default] - GET /users/login?account=123&password=111111
+[2017-07-12 15:12:36.243] [INFO] [default] - GET /
+[2017-07-12 15:12:36.263] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:12:36.268] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:12:37.162] [INFO] console - { account: '123', password: '111111' }
+[2017-07-12 15:12:37.170] [INFO] [default] - GET /users/login?account=123&password=111111
+[2017-07-12 15:12:48.908] [INFO] [default] - GET /
+[2017-07-12 15:12:48.910] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:12:48.918] [INFO] [default] - GET /stylesheets/style.css
+[2017-07-12 15:12:50.014] [INFO] console - { account: '123', password: '111111' }
+[2017-07-12 15:12:50.016] [INFO] [default] - GET /users/login?account=123&password=111111
+[2017-07-12 15:20:27.427] [INFO] [default] - GET /
+[2017-07-12 15:20:28.405] [INFO] console - { account: '123', password: '111111' }
+[2017-07-12 15:20:28.408] [INFO] [default] - GET /users/login?account=123&password=111111
+[2017-07-12 16:03:51.950] [INFO] [default] - GET /
+[2017-07-12 16:03:51.961] [INFO] [default] - GET /stylesheets/style.css

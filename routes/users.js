@@ -37,7 +37,6 @@ router.get('/', function(req, res, next) {
         } else {
             console.log("数据库连接失败");
         }
-
     });
   res.send('respond with a resource');
 });
@@ -63,6 +62,13 @@ router.get('/logs', function (req, res, next) {
     } else {
         res.send("查询无结果");
     }
+});
+
+// 登陆
+router.get('/login', function (req, res, next) {
+    var param = url.parse(req.url, true).query;
+    console.log(param);
+    res.send(param.account + " " +  param.password);
 });
 
 module.exports = router;
